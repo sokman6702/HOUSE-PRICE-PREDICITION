@@ -129,7 +129,7 @@ Add screenshots of your running application to the `screenshots/` folder.
 
 ### Dashboard
 
-![House Price Predictor Dashboard](dashboard.png)
+![House Price Predictor Dashboard](dashboard.PNG)
 
 ### Price Prediction
 
