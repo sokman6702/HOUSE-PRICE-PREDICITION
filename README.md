@@ -116,7 +116,6 @@ House-Price-Predictor/
 ├── app.py
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 └── screenshots/
     ├── dashboard.png
     ├── prediction.png
