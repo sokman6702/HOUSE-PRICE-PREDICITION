@@ -133,11 +133,11 @@ Add screenshots of your running application to the `screenshots/` folder.
 
 ### Price Prediction
 
-![House Price Prediction](screenshots/prediction.PNG)
+![House Price Prediction](prediction.PNG)
 
 ### Model Performance
 
-![Model Performance](screenshots/model-performance.PNG)
+![Model Performance](model-performance.PNG)
 
 ## 🎯 Learning Objectives
 
