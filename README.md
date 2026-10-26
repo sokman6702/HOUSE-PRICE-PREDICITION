@@ -116,10 +116,9 @@ House-Price-Predictor/
 ├── app.py
 ├── README.md
 ├── requirements.txt
-└── screenshots/
-    ├── dashboard.png
-    ├── prediction.png
-    └── model-performance.png
+├── dashboard.png
+├── prediction.png
+└── model-performance.png
 ```
 
 The screenshots folder will contain application screenshots once they have been captured.
